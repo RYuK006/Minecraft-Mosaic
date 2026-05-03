@@ -1,0 +1,9 @@
+__pycache__/
+*.schem
+Meshy_AI_Marshstalker_0430182059_texture_obj/
+blueprint_app.py
+obj_to_schematic.py
+debug_app.py
+test_voxelize.py
+obamify_repo/
+.gemini/
